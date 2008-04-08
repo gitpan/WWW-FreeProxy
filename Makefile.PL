@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 
-# $Id: Makefile.PL 23 2007-07-06 20:00:44Z swined $
-
 use strict;
 use warnings;
 use ExtUtils::MakeMaker;
