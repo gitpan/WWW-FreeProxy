@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                WWW-FreeProxy
-version:             0.03
+version:             0.04
 abstract:            fetch proxies from free proxy lists
 license:             ~
 author:              
